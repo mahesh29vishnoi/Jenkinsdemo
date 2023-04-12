@@ -5,7 +5,12 @@
       "ProjectGuid": "2bd7d382-07f6-48b1-87be-360518122642",
       "DisplayName": "DemoWebApi",
       "ColorIndex": 0
+    },
+    "b9d66d37-d4aa-479e-9939-f1903f70690f": {
+      "ProjectGuid": "b9d66d37-d4aa-479e-9939-f1903f70690f",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
