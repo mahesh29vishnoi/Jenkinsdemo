@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.33502.349
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebApi", "DemoWebApi.csproj", "{2BD7D382-07F6-48B1-87BE-360518122642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoWebApi", "..\..\ProgramData\Jenkins\.jenkins\workspace\freestyle\DemoWebApi.csproj", "{2BD7D382-07F6-48B1-87BE-360518122642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\..\ProgramData\Jenkins\.jenkins\workspace\WebApplication1\WebApplication1.csproj", "{B9D66D37-D4AA-479E-9939-F1903F70690F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2BD7D382-07F6-48B1-87BE-360518122642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD7D382-07F6-48B1-87BE-360518122642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD7D382-07F6-48B1-87BE-360518122642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D66D37-D4AA-479E-9939-F1903F70690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D66D37-D4AA-479E-9939-F1903F70690F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D66D37-D4AA-479E-9939-F1903F70690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D66D37-D4AA-479E-9939-F1903F70690F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
